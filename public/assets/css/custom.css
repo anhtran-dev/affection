@@ -1,0 +1,4 @@
+.site-header #navbar > ul li a:hover, .site-header #navbar > ul li.current-menu-item a {
+    text-decoration: none;
+    color: #00cec9 !important;
+}
